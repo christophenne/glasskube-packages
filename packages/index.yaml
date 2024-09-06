@@ -116,3 +116,8 @@ packages:
     name: tika
     scope: Namespaced
     shortDescription: Content analysis toolkit
+  - iconUrl: https://avatars.githubusercontent.com/u/137193901
+    latestVersion: v0.8.6+1
+    name: tracecat
+    scope: Namespaced
+    shortDescription: The open source Tines / Splunk SOAR alternative
