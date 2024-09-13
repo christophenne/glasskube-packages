@@ -126,3 +126,6 @@ packages:
     name: tracecat
     scope: Namespaced
     shortDescription: The open source Tines / Splunk SOAR alternative
+  - latestVersion: v1.25.0+1
+    name: temporal
+    scope: Namespaced
